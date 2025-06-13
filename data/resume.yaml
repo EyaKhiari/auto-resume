@@ -1,0 +1,28 @@
+name: Eya Khiari
+title: Aspiring Cybersecurity Engineer
+summary: Passionate about building secure and smart digital systems.
+contact:
+  email: eya@example.com
+  location: La Soukra, Tunisia
+
+skills:
+  - Python
+  - Spring Boot
+  - MongoDB
+  - Cybersecurity basics
+  - GitHub Actions
+
+experience:
+  - company: Compass Carnot
+    role: Media & Creative Team Member
+    duration: 1 year
+    description: Contributed to visual and social projects with original ideas.
+  - company: National Rowing Team
+    role: Athlete
+    duration: 2 years
+    description: Learned discipline and resilience as a national-level athlete.
+
+education:
+  - institution: Bourguiba Pioneer High School
+    degree: High School Diploma
+    year: 2023
